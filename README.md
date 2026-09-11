@@ -1,8 +1,8 @@
 # Vincent Boulard — Data Engineer
 
-Ingénieur généraliste (Mines de Douai) avec 15 ans d'expérience en systèmes d'information, en formation Data Engineer (RNCP Niv. 7 — OpenClassrooms).
+Ingénieur généraliste (Mines de Douai) avec 10 ans d'expérience en systèmes d'information, en formation Data Engineer (RNCP Niv. 7 — OpenClassrooms).
 
-15 ans de SI m'ont convaincu d'une chose : une mauvaise donnée coûte plus cher qu'une bonne infrastructure. Je construis aujourd'hui les pipelines que j'aurais voulu avoir à disposition — fiables, testés, exploitables.
+10 ans de SI m'ont convaincu d'une chose : une mauvaise donnée coûte plus cher qu'une bonne infrastructure. Je construis aujourd'hui les pipelines que j'aurais voulu avoir à disposition — fiables, testés, exploitables.
 
 📍 Mazingarbe (62) · 📧 vincent.t.boulard@gmail.com · [LinkedIn](https://www.linkedin.com/in/vincentboulard/)
 
