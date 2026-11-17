@@ -74,7 +74,7 @@ Pipeline d'orchestration avancé avec Kestra, GitHub et GitHub Actions. Workflow
 
 ### 📊 [Prédiction énergétique ML — Bâtiments Seattle](https://github.com/VincentBoulard-DataEngineer/ml-prediction-energie)
 
-Modèle CatBoost (R²=0,792) prédisant la consommation énergétique de bâtiments non résidentiels. Packagé avec BentoML et déployable via API REST sur AWS App Runner.
+Modèle CatBoost (R²=0,775) prédisant la consommation énergétique de bâtiments non résidentiels. Packagé avec BentoML et déployable via API REST sur AWS App Runner.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFD700?style=flat)
