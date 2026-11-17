@@ -1,8 +1,8 @@
 # Vincent Boulard — Data Engineer
 
-Ingénieur généraliste (Mines de Douai) avec 10 ans d'expérience en systèmes d'information, en formation Data Engineer (RNCP Niv. 7 — OpenClassrooms).
+Ingénieur généraliste (Mines de Douai) avec 15 ans d'expérience en systèmes d'information et développement web, titulaire du titre RNCP niveau 7 « Expert en ingénierie et science des données » (OpenClassrooms).
 
-10 ans de SI m'ont convaincu d'une chose : une mauvaise donnée coûte plus cher qu'une bonne infrastructure. Je construis aujourd'hui les pipelines que j'aurais voulu avoir à disposition — fiables, testés, exploitables.
+15 ans de SI m'ont convaincu d'une chose : une mauvaise donnée coûte plus cher qu'une bonne infrastructure. Je construis aujourd'hui les pipelines que j'aurais voulu avoir à disposition — fiables, testés, exploitables.
 
 📍 Mazingarbe (62) · 📧 vincent.t.boulard@gmail.com · [LinkedIn](https://www.linkedin.com/in/vincentboulard/)
 
@@ -100,7 +100,7 @@ Pipeline de gestion de tickets en temps réel avec Redpanda et PySpark. 3 requê
 | #   | Projet                    | Description                                                      | Stack                                   | Dépôt                                                                             |
 | --- | ------------------------- | ---------------------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------------- |
 | P5  | Stockage NoSQL & Docker   | Conteneurisation MongoDB, migration et documentation des données | MongoDB · Docker                        | [→](https://github.com/VincentBoulard-DataEngineer/mongodb-docker-nosql)          |
-| P6  | Prédiction énergétique ML | Modèle CatBoost (R²=0,792) + API REST via BentoML                | Python · CatBoost · BentoML · AWS       | [→](https://github.com/VincentBoulard-DataEngineer/ml-prediction-energie)         |
+| P6  | Prédiction énergétique ML | Modèle CatBoost (R²=0,775) + API REST via BentoML                | Python · CatBoost · BentoML · AWS       | [→](https://github.com/VincentBoulard-DataEngineer/ml-prediction-energie)         |
 | P7  | Architecture NoSQL        | Architecture MongoDB shardée multi-site pour la résilience       | MongoDB · Sharding                      | —                                                                                 |
 | P8  | Pipeline ETL sur AWS      | Pipeline météo quotidien — Airbyte → S3 → ECS Fargate → MongoDB  | AWS · Airbyte · MongoDB · Docker        | —                                                                                 |
 | P9  | Streaming temps réel      | Pipeline de tickets avec Redpanda & PySpark                      | Redpanda · PySpark · Docker             | [→](https://github.com/VincentBoulard-DataEngineer/redpanda-pyspark-streaming)    |
